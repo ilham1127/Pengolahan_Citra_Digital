@@ -1,0 +1,113 @@
+Nama : Ilhami Pradini
+NPM : 011180199
+
+Soal Pilihan Ganda (single/jomblo choice)
+
+1. Soal : Gambar yang dibuat dari unsur garis dan kurva disebut ...
+a. Objek
+b. Bitmap
+c. Vektor
+d. Grafis
+e. Layer
+
+Jawaban : c. Vektor
+
+2. Soal : Berikut adalah ciri-ciri citra vektor, kecuali ...
+a. Citra vector terlihat pecah saat diperbesar
+b. Ukuran file relatif kecil
+c. Ukuran file gambar tidak bergantung pada resolusi komputer
+d. Kualitas hasil gambar dari tipe vektor tidak bergantung pada resolusi gambar
+e. Dalam penyimpanan file, tipe vektor hanya memerlukan ruang penyimpanan yang relatif kecil
+
+Jawaban : a. Citra vector terlihat pecah saat diperbesar
+
+3. Soal : Sebuah tool yang dapat digunakan untuk memanipulasi dua objek atau lebih di Adobe Illustrator disebut ...
+a. Crop
+b. Expand
+c. Brush
+d. Pathfinder
+e. Artboard
+
+Jawaban : d. Pathfinder
+
+4. Soal : Tool dalam Pathfinder dibagi dalam dua kelompok yaitu ...
+a. Pathfinder dan Navigator
+b. Pathfinder dan Layer
+c. Basic Modes dan Medium Modes
+d. Shapes Modes dan Pathfinder
+e. Shapes Modes dan Layer
+
+Jawaban : d. Shapes Modes dan Pathfinder
+
+5. Soal : Fungsi Unite, Minus Front, Intersect dan Exclude termasuk dalam Tools  ...
+a. Pathfinder
+b. Layer
+c. Transform
+d. Artboard
+e. Stroke
+
+Jawaban : a. Pathfinder
+
+Soal Pilihan Ganda (playboy/selingkuh/istri 4/multiple choice)
+
+6. Soal : Berikut ini adalah fungsi dari Pathfinder yaitu
+a. Radial
+b. Unite
+c. Minus Font
+d. Divide
+e. Blur
+
+Jawaban : (b,c,d)
+
+7. Soal : Dibawah ini yang bukan Tools pada pathfinder yaitu
+a. Exclude
+b. Unite
+c. Divide
+d. Merge
+e. Trim
+
+Jawaban : (a,b,c,d)
+
+8. Soal : Berikut ini merupakan tipe yang ada pada gradasi warna yaitu
+a. Linear
+b. Angular
+c. Reflected
+d. Radial
+e. Linear Reflected
+Jawaban : (a,d,)
+
+9. Soal : Berikut ini yang bukan ciri - ciri dari citra vektor yaitu
+a. Ukuran file relatif kecil
+b. Ukuran file gambar tidak bergantung pada resolusi komputer
+c. Kualitas hasil gambar dari tipe vektor tidak bergantung pada resolusi gambar
+d. Dalam penyimpanan file, tipe vektor hanya memerlukan ruang penyimpanan yang relatif kecil
+e. Citra vector terlihat pecah saat diperbesar
+Jawaban : (a,b,c,d)
+
+10. Soal : Berikut ini yang bukan merupakan sebuah tool yang dapat digunakan untuk memanipulasi dua objek atau lebih di Adobe Illustrator yaitu
+a. Crop
+b. Expand
+c. Brush
+d. Pathfinder
+e. Artboard
+Jawaban : (a,b,c,e)
+
+
+11. Soal : Minus Front : Menghapus objek yang berada didepan.
+Jawaban :Benar
+
+12. Soal : Langkah-langkah untuk menggabungkan 2 buah objek menjadi 1 pada fungsi Pathfinder yaitu
+Blok kedua objek, buka Pathfinder - Unite
+Jawaban :Benar
+
+13. Soal : Efek dari Radial Blur yaitu memberikan efek blur dengan berbagai pengaturan lebih detail.
+Jawaban :Salah
+
+14. Soal : Pilih Objek, ubah nilai Opacity sesuai selera, semakin kecil nilai Opacity maka semakin transparan.
+yaitu langkah - langkah untuk membuat efek Transparency pada objek di Adobe Ilustrator.
+Jawaban :Benar
+
+15. Soal : Extrude & Bevel : Membuat efek 3 dimensi di Adobe Illustrator
+Jawaban :Benar
+
+
